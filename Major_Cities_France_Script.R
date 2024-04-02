@@ -1,5 +1,5 @@
 # Set working directory
-setwd("C:/Users/julie/Desktop/GITHUB/France")
+setwd("C:/Users/julien/Desktop/GITHUB/France")
 
 # Install and load required packages
 if (!require(leaflet)) install.packages("leaflet")
