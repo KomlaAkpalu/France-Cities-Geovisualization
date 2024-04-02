@@ -22,7 +22,7 @@ The interactive map is a demonstration of data analysis and visualization techni
 
 ## Map Preview
 
-![Interactive Map of Major Cities in France](GITHUB/Interactive_Map_Major_Cities_France.png)
+![Interactive Map of Major Cities in France](https://github.com/JulienAkpalu/France-Cities-Geovisualization/assets/152445561/206de183-8f1c-4423-9e6c-8f4531bd6ff8)
 
 Feel free to explore the map and the code that generated it.
 
