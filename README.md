@@ -28,6 +28,6 @@ Feel free to explore the map and the code that generated it.
 
 ## Contact
 
-I'm always open to connecting with fellow data enthusiasts and professionals. Should you have any questions, suggestions, or just want to chat about this project, please reach out to me via julienakpalu2@gmail.com .
+I'm always open to connecting with fellow data enthusiasts and professionals.Should you have any questions, suggestions, or just want to chat about this project, please reach out to me via julienakpalu2@gmail.com .
 
 
